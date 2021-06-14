@@ -1,5 +1,5 @@
 # WebScrapping
-Web Scraping Tusing Python and BeautifulSoup
+Web Scraping using Python and BeautifulSoup
 
 Step 1 get the Html
 Step 2 Parse the Html
